@@ -1,0 +1,142 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AperiodicityEstimation	ctest.c	/^static void AperiodicityEstimation(double *x, int x_length,$/;"	f	file:
+AperiodicityEstimation	test.cpp	/^void AperiodicityEstimation(double *x, int x_length,$/;"	f	namespace:__anon2
+CheapTrickOption	world/cheaptrick.h	/^} CheapTrickOption;$/;"	t	typeref:struct:__anon6
+CheckHeader	audioio.cpp	/^static int CheckHeader(FILE *fp) {$/;"	f	namespace:__anon4
+D4COption	world/d4c.h	/^} D4COption;$/;"	t	typeref:struct:__anon8
+DWORD	ctest.c	54;"	d	file:
+DWORD	test.cpp	56;"	d	file:
+DestroyMemory	ctest.c	/^static void DestroyMemory(WorldParameters *world_parameters) {$/;"	f	file:
+DestroyMemory	test.cpp	/^void DestroyMemory(WorldParameters *world_parameters) {$/;"	f	namespace:__anon2
+DioOption	world/dio.h	/^} DioOption;$/;"	t	typeref:struct:__anon7
+DisplayInformation	ctest.c	/^static void DisplayInformation(int fs, int nbit, int x_length) {$/;"	f	file:
+DisplayInformation	test.cpp	/^void DisplayInformation(int fs, int nbit, int x_length) {$/;"	f	namespace:__anon2
+F0Estimation	ctest.c	/^static void F0Estimation(double *x, int x_length, WorldParameters *world_parameters) {$/;"	f	file:
+F0Estimation	test.cpp	/^void F0Estimation(double *x, int x_length, WorldParameters *world_parameters) {$/;"	f	namespace:__anon2
+FFT_BACKWARD	world/fft.h	17;"	d
+FFT_ESTIMATE	world/fft.h	18;"	d
+FFT_FORWARD	world/fft.h	16;"	d
+ForwardRealFFT	world/common.h	/^} ForwardRealFFT;$/;"	t	typeref:struct:__anon9
+GetAudioLength	audioio.cpp	/^int GetAudioLength(const char *filename) {$/;"	f
+GetParameters	audioio.cpp	/^static int GetParameters(FILE *fp, int *fs, int *nbit, int *wav_length) {$/;"	f	namespace:__anon4
+InverseRealFFT	world/common.h	/^} InverseRealFFT;$/;"	t	typeref:struct:__anon10
+MinimumPhaseAnalysis	world/common.h	/^} MinimumPhaseAnalysis;$/;"	t	typeref:struct:__anon11
+MyMaxDouble	world/common.h	/^inline double MyMaxDouble(double x, double y) {$/;"	f
+MyMaxInt	audioio.cpp	/^static inline int MyMaxInt(int x, int y) {$/;"	f	namespace:__anon4
+MyMaxInt	world/common.h	/^inline int MyMaxInt(int x, int y) {$/;"	f
+MyMinDouble	world/common.h	/^inline double MyMinDouble(double x, double y) {$/;"	f
+MyMinInt	audioio.cpp	/^static inline int MyMinInt(int x, int y) {$/;"	f	namespace:__anon4
+MyMinInt	world/common.h	/^inline int MyMinInt(int x, int y) {$/;"	f
+ParameterModification	ctest.c	/^static void ParameterModification(int argc, char *argv[], int fs, int f0_length,$/;"	f	file:
+ParameterModification	test.cpp	/^void ParameterModification(int argc, char *argv[], int fs, int f0_length,$/;"	f	namespace:__anon2
+SpectralEnvelopeEstimation	ctest.c	/^static void SpectralEnvelopeEstimation(double *x, int x_length,$/;"	f	file:
+SpectralEnvelopeEstimation	test.cpp	/^void SpectralEnvelopeEstimation(double *x, int x_length,$/;"	f	namespace:__anon2
+WORLD_API	world/macrodefinitions.h	129;"	d
+WORLD_API	world/macrodefinitions.h	131;"	d
+WORLD_API	world/macrodefinitions.h	135;"	d
+WORLD_AUDIOIO_H_	audioio.h	6;"	d
+WORLD_BEGIN_C_DECLS	world/macrodefinitions.h	66;"	d
+WORLD_BEGIN_C_DECLS	world/macrodefinitions.h	69;"	d
+WORLD_BEGIN_C_DECLS	world/macrodefinitions.h	72;"	d
+WORLD_CHEAPTRICK_H_	world/cheaptrick.h	6;"	d
+WORLD_COMMON_H_	world/common.h	6;"	d
+WORLD_CONSTANT_NUMBERS_H_	world/constantnumbers.h	8;"	d
+WORLD_D4C_H_	world/d4c.h	6;"	d
+WORLD_DIO_H_	world/dio.h	6;"	d
+WORLD_END_C_DECLS	world/macrodefinitions.h	67;"	d
+WORLD_END_C_DECLS	world/macrodefinitions.h	70;"	d
+WORLD_END_C_DECLS	world/macrodefinitions.h	73;"	d
+WORLD_FFT_H_	world/fft.h	9;"	d
+WORLD_HELPER_DLL_EXPORT	world/macrodefinitions.h	102;"	d
+WORLD_HELPER_DLL_EXPORT	world/macrodefinitions.h	106;"	d
+WORLD_HELPER_DLL_EXPORT	world/macrodefinitions.h	97;"	d
+WORLD_HELPER_DLL_IMPORT	world/macrodefinitions.h	101;"	d
+WORLD_HELPER_DLL_IMPORT	world/macrodefinitions.h	105;"	d
+WORLD_HELPER_DLL_IMPORT	world/macrodefinitions.h	96;"	d
+WORLD_HELPER_DLL_LOCAL	world/macrodefinitions.h	103;"	d
+WORLD_HELPER_DLL_LOCAL	world/macrodefinitions.h	107;"	d
+WORLD_HELPER_DLL_LOCAL	world/macrodefinitions.h	98;"	d
+WORLD_LOCAL	world/macrodefinitions.h	133;"	d
+WORLD_LOCAL	world/macrodefinitions.h	136;"	d
+WORLD_MACRODEFINITIONS_H_	world/macrodefinitions.h	32;"	d
+WORLD_MATLABFUNCTIONS_H_	world/matlabfunctions.h	6;"	d
+WORLD_STONEMASK_H_	world/stonemask.h	6;"	d
+WORLD_SYNTHESIS_H_	world/synthesis.h	6;"	d
+WaveformSynthesis	ctest.c	/^static void WaveformSynthesis(WorldParameters *world_parameters, int fs,$/;"	f	file:
+WaveformSynthesis	test.cpp	/^void WaveformSynthesis(WorldParameters *world_parameters, int fs,$/;"	f	namespace:__anon2
+WorldParameters	ctest.c	/^} WorldParameters;$/;"	t	typeref:struct:__anon3	file:
+WorldParameters	test.cpp	/^} WorldParameters;$/;"	t	typeref:struct:__anon1	file:
+allowed_range	world/dio.h	/^  double allowed_range;  \/\/ Threshold used for fixing the F0 contour.$/;"	m	struct:__anon7
+aperiodicity	ctest.c	/^  double **aperiodicity;$/;"	m	struct:__anon3	file:
+aperiodicity	test.cpp	/^  double **aperiodicity;$/;"	m	struct:__anon1	file:
+c_in	world/fft.h	/^  fft_complex *c_in;$/;"	m	struct:__anon5
+c_out	world/fft.h	/^  fft_complex *c_out;$/;"	m	struct:__anon5
+cepstrum	world/common.h	/^  fft_complex *cepstrum;$/;"	m	struct:__anon11
+channels_in_octave	world/dio.h	/^  double channels_in_octave;$/;"	m	struct:__anon7
+dummy	world/d4c.h	/^  double dummy;  \/\/ This is the future update.$/;"	m	struct:__anon8
+f0	ctest.c	/^  double *f0;$/;"	m	struct:__anon3	file:
+f0	test.cpp	/^  double *f0;$/;"	m	struct:__anon1	file:
+f0_ceil	world/dio.h	/^  double f0_ceil;$/;"	m	struct:__anon7
+f0_floor	world/cheaptrick.h	/^  double f0_floor;$/;"	m	struct:__anon6
+f0_floor	world/dio.h	/^  double f0_floor;$/;"	m	struct:__anon7
+f0_length	ctest.c	/^  int f0_length;$/;"	m	struct:__anon3	file:
+f0_length	test.cpp	/^  int f0_length;$/;"	m	struct:__anon1	file:
+fft_complex	world/fft.h	/^typedef double fft_complex[2];$/;"	t
+fft_plan	world/fft.h	/^} fft_plan;$/;"	t	typeref:struct:__anon5
+fft_size	ctest.c	/^  int fft_size;$/;"	m	struct:__anon3	file:
+fft_size	test.cpp	/^  int fft_size;$/;"	m	struct:__anon1	file:
+fft_size	world/common.h	/^  int fft_size;$/;"	m	struct:__anon10
+fft_size	world/common.h	/^  int fft_size;$/;"	m	struct:__anon11
+fft_size	world/common.h	/^  int fft_size;$/;"	m	struct:__anon9
+flags	world/fft.h	/^  unsigned int flags;$/;"	m	struct:__anon5
+forward_fft	world/common.h	/^  fft_plan forward_fft;$/;"	m	struct:__anon11
+forward_fft	world/common.h	/^  fft_plan forward_fft;$/;"	m	struct:__anon9
+frame_period	ctest.c	/^  double frame_period;$/;"	m	struct:__anon3	file:
+frame_period	test.cpp	/^  double frame_period;$/;"	m	struct:__anon1	file:
+frame_period	world/dio.h	/^  double frame_period;  \/\/ msec$/;"	m	struct:__anon7
+fs	ctest.c	/^  int fs;$/;"	m	struct:__anon3	file:
+fs	test.cpp	/^  int fs;$/;"	m	struct:__anon1	file:
+in	world/fft.h	/^  double *in;$/;"	m	struct:__anon5
+input	world/fft.h	/^  double *input;$/;"	m	struct:__anon5
+inverse_fft	world/common.h	/^  fft_plan inverse_fft;$/;"	m	struct:__anon10
+inverse_fft	world/common.h	/^  fft_plan inverse_fft;$/;"	m	struct:__anon11
+ip	world/fft.h	/^  int *ip;$/;"	m	struct:__anon5
+kBlackman	world/constantnumbers.h	/^  const int kBlackman = 2;$/;"	m	namespace:world
+kCeilF0	world/constantnumbers.h	/^  const double kCeilF0 = 800.0;$/;"	m	namespace:world
+kDefaultF0	world/constantnumbers.h	/^  const double kDefaultF0 = 500.0;$/;"	m	namespace:world
+kFloorF0	world/constantnumbers.h	/^  const double kFloorF0 = 71.0;$/;"	m	namespace:world
+kFrequencyInterval	world/constantnumbers.h	/^  const double kFrequencyInterval = 3000.0;$/;"	m	namespace:world
+kHanning	world/constantnumbers.h	/^  const int kHanning = 1;$/;"	m	namespace:world
+kLog2	world/constantnumbers.h	/^  const double kLog2 = 0.69314718055994529;$/;"	m	namespace:world
+kMaximumValue	world/constantnumbers.h	/^  const double kMaximumValue = 100000.0;$/;"	m	namespace:world
+kMySafeGuardMinimum	world/constantnumbers.h	/^  const double kMySafeGuardMinimum = 0.000000000001;$/;"	m	namespace:world
+kPi	world/constantnumbers.h	/^  const double kPi = 3.1415926535897932384;$/;"	m	namespace:world
+kUpperLimit	world/constantnumbers.h	/^  const double kUpperLimit = 15000.0;$/;"	m	namespace:world
+log_spectrum	world/common.h	/^  double *log_spectrum;$/;"	m	struct:__anon11
+main	ctest.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	test.cpp	/^int main(int argc, char *argv[]) {$/;"	f
+minimum_phase_spectrum	world/common.h	/^  fft_complex *minimum_phase_spectrum;$/;"	m	struct:__anon11
+n	world/fft.h	/^  int n;$/;"	m	struct:__anon5
+out	world/fft.h	/^  double *out;$/;"	m	struct:__anon5
+q1	world/cheaptrick.h	/^  double q1;$/;"	m	struct:__anon6
+sign	world/fft.h	/^  int sign;$/;"	m	struct:__anon5
+spectrogram	ctest.c	/^  double **spectrogram;$/;"	m	struct:__anon3	file:
+spectrogram	test.cpp	/^  double **spectrogram;$/;"	m	struct:__anon1	file:
+spectrum	world/common.h	/^  fft_complex *spectrum;$/;"	m	struct:__anon10
+spectrum	world/common.h	/^  fft_complex *spectrum;$/;"	m	struct:__anon9
+speed	world/dio.h	/^  int speed;  \/\/ (1, 2, ..., 12)$/;"	m	struct:__anon7
+timeGetTime	ctest.c	/^DWORD timeGetTime() {$/;"	f
+timeGetTime	test.cpp	/^DWORD timeGetTime() {$/;"	f
+time_axis	ctest.c	/^  double *time_axis;$/;"	m	struct:__anon3	file:
+time_axis	test.cpp	/^  double *time_axis;$/;"	m	struct:__anon1	file:
+w	world/fft.h	/^  double *w;$/;"	m	struct:__anon5
+waveform	world/common.h	/^  double *waveform;$/;"	m	struct:__anon10
+waveform	world/common.h	/^  double *waveform;$/;"	m	struct:__anon9
+wavread	audioio.cpp	/^void wavread(const char* filename, int *fs, int *nbit, double *x) {$/;"	f
+wavwrite	audioio.cpp	/^void wavwrite(const double *x, int x_length, int fs, int nbit,$/;"	f
+world	world/constantnumbers.h	/^namespace world {$/;"	n
